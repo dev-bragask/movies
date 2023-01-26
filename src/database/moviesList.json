@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.themoviedb.org/movie/436270-black-adam",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",
+    "alt": "Imagem do filme Adão Negro"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tb0qiqLN9szHPA4i0kY38oaWew.jpg",
+    "alt": "Imagem do filme Pantera Negra: Wakanda para Sempre"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/774752-the-guarians-of-the-galaxy-holiday-special",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg",
+    "alt": "Imagem do filme Guardiões da Galáxia: Es de Festas"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/76600-avatar-the-way-of-water",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnmdUnztAYbfJ0jhjpN6oxwP2sb.jpg",
+    "alt": "Imagem do filme Avatar: O Caminho da Água"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/361743-top-gun-maverick",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg",
+    "alt": "Imagem do filme Top Gun: Maverick"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/507086-jurassic-world-dominion",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+    "alt": "Imagem do filme Jurassic World: Domínio"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/414906-the-batman",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+    "alt": "Imagem do filme Batman"
+  },
+  {
+    "url": "https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg",
+    "alt": "Imagem do filme Minions 2: A Origem de Gru"
+  }
+]

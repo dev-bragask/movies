@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.twitch.tv/br1546",
+    "imageUrl": "/images/twitch.png",
+    "alt": "twitch"
+  },
+  {
+    "url": "https://www.instagram.com/nicolas.sk_/",
+    "imageUrl": "/images/instagram.png",
+    "alt": "instagram"
+  },
+  {
+    "url": "https://www.linkedin.com/in/devbraga/",
+    "imageUrl": "/images/linkedin.png",
+    "alt": "Linkedin"
+  },
+  {
+    "url": "https://github.com/dev-bragask",
+    "imageUrl": "/images/github.png",
+    "alt": "GitHub"
+  }
+]

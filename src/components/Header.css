@@ -1,0 +1,24 @@
+header {
+  margin-top: 3.2rem;
+}
+
+header div {
+  display: flex;
+  width: 12rem;
+  border-radius: 50%;
+
+  margin: auto;
+  padding: 0.4rem;
+
+  background-image: linear-gradient(90deg, #FF4066, #FFF16a);
+  transition: transform 0.3s;
+}
+
+header div:hover {
+  transform: scale(1.1);
+}
+
+header img {
+  width: 100%;
+  border-radius: 50%;
+}

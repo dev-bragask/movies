@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.themoviedb.org/tv/119051-wednesday",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg",
+    "alt": "Imagem da serie Wandinha"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+    "alt": "Imagem do serie Rick e Morty "
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/1402-the-walking-dead",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+    "alt": "Imagem da serie The Walking Dead"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/456-the-simpsons",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eMJYtdMmtiUI2WHYvoR0BmRGq51.jpg",
+    "alt": "Imagem da serie Os Simpsons"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/60574-peaky-blinders",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg",
+    "alt": "Imagem da serie Peaky Blinders: Sangue, Apostas e Navalhas"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/1396-breaking-bad",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
+    "alt": "Imagem da serie Breaking Bad: A Química do Mal"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/66732-stranger-things",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oqkld2D0qcnSNRm15rYV2883JE3.jpg",
+    "alt": "Imagem da serie Stranger Things"
+  },
+  {
+    "url": "https://www.themoviedb.org/tv/60735-the-flash",
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+    "alt": "Imagem da serie Flash"
+  }
+]
