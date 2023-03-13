@@ -1,5 +1,5 @@
 # Movies
-<img src="./.github/capa.png" alt="Capa do projeto">
+
 
 > O projeto foi desenvolvido com a finalidade de mostrar meu filmes e series favoritos de uma forma mais dinamica e divertida.
 
